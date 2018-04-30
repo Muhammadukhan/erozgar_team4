@@ -1,0 +1,29 @@
+body{
+	background:url(background.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	font-family: Sans-serif;
+	width:auto;
+	height:auto;
+	max-width: 100%;
+	min-width: 100%;
+	margin: 0;
+	background-position: 100% 100%;
+}
+.allignment{
+margin: auto;
+width: 35%;
+
+margin-top:auto;
+margin-bottom: auto;
+
+
+}
+.signheader{
+	padding: 10px;
+	
+	color:#FFFFFF;"
+}
+
+
